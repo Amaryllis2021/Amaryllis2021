@@ -4,11 +4,11 @@
 
  
    <h2 align="left"> My name is Amaryllis, a translator with design and coding skills, currently studying Data Science, NLP and teaching digital transformation. I like solving problems.<h2 align="left">     
-<br> I’m currently learning Python, NLP, SQL and R. I am doing the #100DaysOfCode challenge.<br/>
-<br>- Ask me about  translation (English, French and Spanish into Portuguese), coding, tech, drawing, Sporting de Lisboa and Microsoft Flight Simulator.<br/>
-<br>- How to reach me: <a href="mailto:info@amaryllis2021.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@amaryllis2021.com-red?style=flat&logo=gmail"></a>  <br/>
-<br>- Pronouns:"she" | "her"<br/>
-<br>- Fun fact: I ♥ cross stitch, journaling, BD, anime, dance, music, crochet and doodles!<br/> 
+<br> I’m currently learning Python, NLP, SQL and R and AI. I am doing the #100DaysOfCode challenge.<br/>
+<br> Ask me about  translation (English, French and Spanish into Portuguese), coding, tech, drawing, Sporting de Lisboa and Microsoft Flight Simulator.<br/>
+<br> How to reach me: <a href="mailto:info@amaryllis2021.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@amaryllis2021.com-red?style=flat&logo=gmail"></a>  <br/>
+<br> Pronouns:"she" | "her"<br/>
+<br> Fun fact: I ♥ cross stitch, cycling, gardening, journaling, BD, anime, dance, music, crochet and doodles!<br/> 
 
 <h1><p align="center"><img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="60"> <em><p align="center"> </h1>
  <h2><p align="center"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be more than happy!</b> 😊<p align="center"> </h2>
