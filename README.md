@@ -39,7 +39,6 @@
     
 <img src="https://img.shields.io/badge/python-%23F7DF1E.svg?&style=for-the-badge&logo=python&logoColor=black" height="25"/>
 
-
 <img src="https://img.shields.io/badge/powerbi%20-%23E34F26.svg?&style=for-the-badge&logo=powerbi&logoColor=black" height="25"/>
   
 <img src="https://img.shields.io/badge/googlecolab-%231572B6.svg?&style=for-the-badge&logo=googlecolab&logoColor=white" height="25"/> 
@@ -48,6 +47,11 @@
   
 <img src="https://img.shields.io/badge/tableau%20-%23F7DF1E.svg?&style=for-the-badge&logo=powerbi&logoColor=black" height="25"/> 
 
+<img src="https://img.shields.io/badge/azure%20-%23E34F26.svg?&style=for-the-badge&logo=azure&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/visio%20-%231572B6.svg?&style=for-the-badge&logo=visio&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/canva%20-%23563D7C.svg?&style=for-the-badge&logo=canva&logoColor=white" height="25"/>
 
 </p>
 
