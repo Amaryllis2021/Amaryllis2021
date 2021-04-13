@@ -51,7 +51,14 @@
 
 <img src="https://img.shields.io/badge/visio%20-%231572B6.svg?&style=for-the-badge&logo=visio&logoColor=white" height="25"/>
 
-<img src="https://img.shields.io/badge/canva%20-%23563D7C.svg?&style=for-the-badge&logo=canva&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/acess%20-%23563D7C.svg?&style=for-the-badge&logo=acess&logoColor=white" height="25"/>
+
+<img src="https://img.shields.io/badge/adobefresco-%23F7DF1E.svg?&style=for-the-badge&logo=adobefresco&logoColor=black" height="25"/>
+  
+<img src="https://img.shields.io/badge/mailchimp%20-%23E34F26.svg?&style=for-the-badge&logo=mailchimp&logoColor=white" height="25"/>
+     
+<img src="https://img.shields.io/badge/gimp-%231572B6.svg?&style=for-the-badge&logo=gimp&logoColor=white" height="25"/>
+
 
 </p>
 
