@@ -47,17 +47,17 @@
   
 <img src="https://img.shields.io/badge/tableau%20-%23F7DF1E.svg?&style=for-the-badge&logo=powerbi&logoColor=black" height="25"/> 
 
-<img src="https://img.shields.io/badge/azure%20-%23E34F26.svg?&style=for-the-badge&logo=azure&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/microsoftazure%20-%23E34F26.svg?&style=for-the-badge&logo=microsoftazure&logoColor=white" height="25"/>
 
 <img src="https://img.shields.io/badge/visio%20-%231572B6.svg?&style=for-the-badge&logo=visio&logoColor=white" height="25"/>
 
-<img src="https://img.shields.io/badge/acess%20-%23563D7C.svg?&style=for-the-badge&logo=acess&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/microsoftacess%20-%23563D7C.svg?&style=for-the-badge&logo=microsoftacess&logoColor=white" height="25"/>
 
 <img src="https://img.shields.io/badge/adobefresco-%23F7DF1E.svg?&style=for-the-badge&logo=adobefresco&logoColor=black" height="25"/>
   
 <img src="https://img.shields.io/badge/mailchimp%20-%23E34F26.svg?&style=for-the-badge&logo=mailchimp&logoColor=white" height="25"/>
      
-
+<img src="https://img.shields.io/badge/microsoftexcel-%231572B6.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white" height="25"/>
 
 
 </p>
