@@ -59,6 +59,9 @@
      
 <img src="https://img.shields.io/badge/microsoftexcel-%231572B6.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white" height="25"/>
 
+<img src="https://img.shields.io/badge/dataiku%20-%23563D7C.svg?&style=for-the-badge&logo=dataiku&logoColor=white" height="25"/> 
+
+
 
 </p>
 
