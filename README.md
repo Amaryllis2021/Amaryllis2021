@@ -57,7 +57,7 @@
   
 <img src="https://img.shields.io/badge/mailchimp%20-%23E34F26.svg?&style=for-the-badge&logo=mailchimp&logoColor=white" height="25"/>
      
-<img src="https://img.shields.io/badge/gimp-%231572B6.svg?&style=for-the-badge&logo=gimp&logoColor=white" height="25"/>
+
 
 
 </p>
