@@ -5,7 +5,7 @@
  
    <h2 align="left"> My name is Amaryllis, a Translator with design and coding skills, currently studying Data Science and teaching digital transformation. I like solving problems.<h2 align="left">     
 <br> I’m currently learning Python, NLP, SQL, R and AI. I am doing the #100DaysOfCode challenge.<br/>
-<br> Ask me about  translation (English, French and Spanish and Portuguese), coding, tech, drawing, Sporting de Lisboa and Microsoft Flight Simulator.<br/>
+<br> Ask me about  translation (English, French, Spanish and Portuguese), coding, tech, drawing, Sporting de Lisboa and Microsoft Flight Simulator.<br/>
 <br> How to reach me: <a href="mailto:info@amaryllis2021.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@amaryllis2021.com-red?style=flat&logo=gmail"></a>  <br/>
 <br> Pronouns:"she" | "her"<br/>
 <br> Fun fact: I ♥ cross stitch, cycling, gardening, journaling, BD, anime, dance, music, crochet and doodles!<br/> 
