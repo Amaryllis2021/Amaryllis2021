@@ -1,20 +1,74 @@
 
-<h2 align="center"> Hello 👋 Welcome to my profile 😊</h2>
+<h2 align="center">Hello 👋 I'm Amaryllis | Data Science Student</h2>
 
+<h3 align="center">Translator and E-commerce Data Analyst transitioning into Data Science with expertise in multilingual NLP and data analysis</h3>
 
- 
-   <h2 align="left"> My name is Amaryllis, a Translator with design and coding skills, currently studying Data Science and teaching digital transformation. I like solving problems.<h2 align="left">     
-<br> I’m currently learning Python, NLP, SQL, R, Machine Learning and Data Engineering.<br/>
-<br> Ask me about  translation (English, French, Spanish and Portuguese), coding, tech, drawing, Sporting de Lisboa and Microsoft Flight Simulator.<br/>
-<br> How to reach me: <a href="mailto:info@amaryllis2021.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@amaryllis2021.com-red?style=flat&logo=gmail"></a>  <br/>
-<br> Pronouns:"she" | "her"<br/>
-<br> Fun fact: I ♥ cross stitch, cycling, gardening, journaling, BD, anime, dance, music, crochet and doodles!<br/> 
+## 📊 Data Science & Analytics Skills
 
-<h1><p align="center"><img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="60"> <em><p align="center"> </h1>
- <h2><p align="center"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be more than happy!</b> 😊<p align="center"> </h2>
+**Programming Languages:**
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch)
+- R (Tidyverse, ggplot2, Shiny)
+- SQL (Query optimization, database management)
+
+**Data Analysis & Visualization:**
+- Statistical analysis & hypothesis testing
+- Data cleaning & preprocessing
+- Tableau/Power BI
+- Seaborn, Plotly, ggraph
+
+**Machine Learning & NLP:**
+- Supervised/Unsupervised learning
+- Regression, Classification, Clustering models
+- Natural Language Processing (NLP)
+- Text mining & sentiment analysis
+- Multilingual text processing (English, French, Spanish, Portuguese)
+
+**Data Engineering:**
+- ETL processes
+- Database design
+- Big Data technologies (mention if learning any)
+
+**Tools & Technologies:**
+- Git & GitHub
+- Jupyter Notebooks
+- Cloud platforms (GCP/Azure)
+
+## 🎓 Currently Learning
+- Advanced Machine Learning techniques
+- Digital Humanities
+- Deep Learning for NLP
+- Data Engineering best practices
+- Big Data frameworks
+
+## 💼 Professional Background
+- **Translation expertise**: 5+ years in multilingual translation (EN/FR/ES/PT)
+- **Digital Transformation**: Teaching experience in digital skills
+- **Design Skills**: UI/UX and visual design capabilities
+- **Problem-Solving**: Proven track record in analytical thinking
+- - **E-commerce project manager
+
+## 📫 How to Reach Me
+<a href="mailto:info@amaryllis2021.com"><img alt="Email" src="https://img.shields.io/badge/Email-info@amaryllis2021.com-red?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/[YourProfile]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amaryllis-blue?style=flat&logo=linkedin"></a>
+<a href="https://[YourPortfolio].com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-My%20Work-green?style=flat&logo=google-chrome"></a>
+
+## 🎯 Career Objective
+Seeking entry-level positions in Data Science where I can leverage my multilingual NLP skills, analytical thinking, and problem-solving abilities to derive actionable insights from data.
+
+## ✨ Fun Facts
+- Multilingual professional (English, French, Spanish, Portuguese)
+- Passionate about digital transformation education
+- Enjoy cross stitch, cycling, gardening, and creative pursuits
+- Avid supporter of Sporting de Lisboa
+- Microsoft Flight Simulator enthusiast
 
 <p align="center">
-
+  <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="60">
+  <br>
+  <em>I love connecting with different people so if you want to say hi, I'll be more than happy! 😊</em>
+</p>
+ 
+ 
 <img src="https://img.shields.io/badge/datascience%20-%23E34F26.svg?&style=for-the-badge&logo=datascience&logoColor=white" height="25"/>
   
 <img src="https://img.shields.io/badge/nlp%20-%231572B6.svg?&style=for-the-badge&logo=nlp&logoColor=white" height="25"/>
